@@ -1,8 +1,9 @@
-name: spritechart
+name: sprite_chart
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: xiake-chen <0426kccd@gmail.com>
+
+homepage: https://github.com/xiake-chen/sprite_chart.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -59,3 +60,5 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+
+

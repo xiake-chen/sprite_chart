@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:spritechart/sprite_chart_painter.dart';
+
+import 'sprite_chart_painter.dart';
 
 
 class SpriteChartwidget extends StatefulWidget {

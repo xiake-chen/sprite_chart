@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:spritechart/sprite_chart_widget.dart';
+import 'sprite_chart_widget.dart';
 
 
 //默认X间距

@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
-
 import 'package:flutter/services.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:spritechart/spritechart.dart';
 import 'package:spritechart/sprite_chart_widget.dart';
-import 'package:spritechart/sprite_chart_painter.dart';
 
 void main() => runApp(MyApp());
 
